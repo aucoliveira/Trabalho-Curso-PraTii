@@ -1,6 +1,6 @@
-# 📚 15 Exercícios de Lógica em JavaScript - Codifica +PraTi
+# 📚 15 Exercícios de Lógica em JavaScript - Codifica +PraTii
 
-Repositório contendo 15 exercícios de lógica de programação em JavaScript desenvolvidos como parte do curso **Codifica +PraTi**.
+Repositório contendo 15 exercícios de lógica de programação em JavaScript desenvolvidos como parte do curso **Codifica +PraTii**.
 
 ## 🧠 Lista de Exercícios
 
